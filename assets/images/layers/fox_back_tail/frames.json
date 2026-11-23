@@ -1,0 +1,46 @@
+{
+ "angles": [
+  14,
+  12,
+  10,
+  8,
+  6,
+  4,
+  2,
+  0,
+  -2,
+  -4,
+  -6,
+  -8,
+  -10,
+  -12,
+  -14
+ ],
+ "files": [
+  "tail_00.png",
+  "tail_01.png",
+  "tail_02.png",
+  "tail_03.png",
+  "tail_04.png",
+  "tail_05.png",
+  "tail_06.png",
+  "tail_07.png",
+  "tail_08.png",
+  "tail_09.png",
+  "tail_10.png",
+  "tail_11.png",
+  "tail_12.png",
+  "tail_13.png",
+  "tail_14.png"
+ ],
+ "size": [
+  1011,
+  1313
+ ],
+ "box": [
+  -114,
+  -4,
+  1015,
+  1316
+ ]
+}

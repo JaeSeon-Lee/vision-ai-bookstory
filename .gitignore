@@ -1,0 +1,17 @@
+# 비밀 키
+.env
+.env.*
+
+# 파이썬
+.venv/
+__pycache__/
+*.pyc
+
+# 촬영 영상 (공개하지 않음. 학습·채점을 다시 하려면 필요)
+assets/video/
+
+# 위치 정보(GPS)가 든 촬영 사진. 앱은 쓰지 않는다
+assets/images/shadow_exam_*.jpg
+
+# 웹캠 진단 기록
+assets/diagnostics/
